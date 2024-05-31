@@ -1,0 +1,1 @@
+The current project is the creation of a website that contains recipes in it. It also is a lesson within The Odin Project that will have me use all that I have learned so far and use it together. 

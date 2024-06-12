@@ -1,0 +1,15 @@
+/* style.css */
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+align-content: center;}
+
+#recipe-name {
+    color: cornflowerblue;
+    font-size: 36px;
+}
+
+.img-size {
+    height: 600px;
+    width: 600px;
+}

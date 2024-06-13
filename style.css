@@ -2,7 +2,7 @@
 
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-align-content: center;}
+    background-color: dimgrey;
 
 #recipe-name {
     color: cornflowerblue;
@@ -11,5 +11,5 @@ align-content: center;}
 
 .img-size {
     height: 600px;
-    width: auto;
+    width: 550px;
 }

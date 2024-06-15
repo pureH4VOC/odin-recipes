@@ -2,11 +2,15 @@
 
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: dimgrey;
+    background-color: #347b98;
 
-#recipe-name {
-    color: green;
-    font-size: 36px;
+#theme{
+    color: #67afcb;
+    font-size: 48px;
+}
+
+#color {
+    color: #092834;
 }
 
 .img-size {

@@ -4,12 +4,12 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #347b98;
 
-#theme{
+.theme {
     color: #67afcb;
     font-size: 48px;
 }
 
-#color {
+.color {
     color: #092834;
 }
 

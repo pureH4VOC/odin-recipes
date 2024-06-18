@@ -18,3 +18,8 @@ body {
     height: auto;
     width: auto;
 }
+
+.img-size, .blue-pie {
+    height: 475px;
+    width: 475px;
+}

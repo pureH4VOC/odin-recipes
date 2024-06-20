@@ -1,4 +1,11 @@
 /* style.css */
+
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -9,7 +16,6 @@ body {
     background-image: linear-gradient(#092834, #67afcb);
     width: 980px;
     margin: 0 auto;
-    box-sizing: border-box;
 }
 
 .theme {

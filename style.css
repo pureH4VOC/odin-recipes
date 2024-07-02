@@ -42,9 +42,9 @@ body {
     text-align: center;
 }
 
-.img-size {
-    height: fit-content;
-    width: fit-content;
+.size {
+    height: 450px;
+    width: 450px;
 }
 
 @media (max-width:600px) {
